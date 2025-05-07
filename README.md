@@ -3,6 +3,7 @@
 
 
 ANALYSIS OF COLORECTAL CANCER DATASET
+Dataset source: Kaggle
 
 The dataset which was for several world countries, was filtered for only entries for South Africa. Only a sample of 1034 entries was used for the analysis.
 The dataset was split into 5 tables: Patients, Treatment Type, Outcomes, Healthcare Data and Diagnosis.
