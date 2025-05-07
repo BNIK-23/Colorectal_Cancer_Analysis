@@ -19,6 +19,7 @@ MySQL was used for the exploratory data analysis, answering the following questi
 -	How does the combination of cancer stage and early detection affect survival prediction?
 
 Data Visualization
+An SQL query was used to import data into Power BI. DAX formulas and Power BI were used to visualize the data
 
 The next task was to visualize the data in order to answer the following questions in order to assess certain factors that influence survival after diagnosis with colorectal cancer;
 
