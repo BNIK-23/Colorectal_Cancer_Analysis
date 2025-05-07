@@ -1,4 +1,7 @@
 # Colorectal_Cancer_Analysis
+![Screenshot 2025-05-07 230215](https://github.com/user-attachments/assets/a2fe5ec7-4812-44a0-a68b-a37ffd44d9ca)
+
+
 ANALYSIS OF COLORECTAL CANCER DATASET
 
 The dataset which was for several world countries, was filtered for only entries for South Africa. Only a sample of 1034 entries was used for the analysis.
